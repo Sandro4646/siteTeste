@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+    margin: auto;
+    width: 70%;
+}
+
+header {
+    background-color: rgb(126, 249, 208);
+    padding: 4rem;
+}
